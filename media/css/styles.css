@@ -1,0 +1,106 @@
+p li{
+	list-style-type: square;
+}
+
+.subhead{
+	height: 200px;
+	text-align: center;
+
+}
+
+.head-title{
+	font-size: 70px;
+}
+
+.list-features p{
+	text-align: justify;
+}
+.list-features h3{
+	text-align: center;
+}
+
+.img-category{
+	width: 100%;
+	margin: 0 auto;
+}
+.img-category img{
+	width: 128px;
+	height: 128px;
+	text-align: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.form{
+
+	width: 700px;
+	margin: 0 auto;
+}
+.form-file{
+	display: block;
+	margin: 0 auto;
+}
+.btn-form{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.labelInput{
+	min-width: 220px;
+}
+
+.checkbox-form{
+	margin-bottom: 0;
+}
+.imgfolder{
+	display: inline-block;
+}
+
+.content_folder{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.head-file{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.img-file{
+	display: inline-block;
+}
+.info-file{
+	display: inline-block;
+}
+
+.table{
+	width: auto;
+}
+.table-form{
+	display: inline-block;
+}
+
+.img-file-info{
+	max-width: 300px;
+	max-height: 200px; 
+}
+
+.btn-file{
+	width: 150px;
+	margin-bottom: 5px;
+
+}
+
+.nav-folder{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+footer{
+	margin-top: 30px;
+	font-size: 10px;
+	text-align: center;
+}
